@@ -2,7 +2,8 @@
   "name": "yxtension",
   "displayName": "YXtension",
   "description": "extension pack for Ynov",
-  "version": "0.0.1",
+  "publisher": "AlbaNagisa",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
