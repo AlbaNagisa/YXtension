@@ -1,0 +1,24 @@
+{
+  "name": "yxtension",
+  "displayName": "YXtension",
+  "description": "extension pack for Ynov",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "vscjava.vscode-java-pack",
+    "esbenp.prettier-vscode",
+    "tonybaloney.vscode-pets",
+    "mechatroner.rainbow-csv",
+    "icrawl.discord-vscode",
+    "MS-vsliveshare.vsliveshare-pack",
+    "PKief.material-icon-theme",
+    "golang.Go",
+    "idleberg.icon-fonts",
+    "christian-kohler.path-intellisense"
+  ]
+}
