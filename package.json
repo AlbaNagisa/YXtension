@@ -3,7 +3,7 @@
   "displayName": "YXtension",
   "description": "extension pack for Ynov",
   "publisher": "AlbaNagisa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -20,6 +20,9 @@
     "PKief.material-icon-theme",
     "golang.Go",
     "idleberg.icon-fonts",
-    "christian-kohler.path-intellisense"
+    "kleber-swf.unity-code-snippets",
+    "christian-kohler.path-intellisense",
+    "ms-dotnettools.csharp",
+    "fudge.auto-using"
   ]
 }
